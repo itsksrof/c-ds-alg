@@ -1,2 +1,2 @@
-# c-ds-stuff
-Data structures refresher using C
+# c-ds-alg
+Data structures and Algorithms refresher using C
